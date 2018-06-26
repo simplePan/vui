@@ -5,4 +5,4 @@ dist
 .idea
 .vscode
 build/*.js*
-
+public/*.js*
