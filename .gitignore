@@ -4,5 +4,4 @@ node_modules
 dist
 .idea
 .vscode
-build/*.js*
 public/*.js*

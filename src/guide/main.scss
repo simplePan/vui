@@ -1,6 +1,14 @@
 @import "../framework/framework";
 @import "./views/app";
+@import "./components/guideNav/guideNav";
+html,
 body {
+  height: 100%;
+}
+
+body {
+  font-family: 'Lato', 'Helvetica Neue', sans-serif;
   background-color: #ffffff;
   line-height: 40px;
+  margin: 0;
 }

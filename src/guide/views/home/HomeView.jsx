@@ -9,8 +9,15 @@ export default class HomeView extends Component {
 
   render() {
     return (
-      <div>
-        Home
+      <div className="guideHome">
+        <div className="guideHome__panel">
+          <div className="guideHome__panelTitle">
+            Welecto to VUI Framework
+          </div>
+          <div className="guideHome__panelText">
+            Get started by clicking the menu
+          </div>
+        </div>
       </div>
     )
   }
